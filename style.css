@@ -400,7 +400,7 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 /* Bloc image backgrounds */
 
 .bg-edgeBackground2{
-	background-image:url('img/edgeBackground2.jpg');
+	background-image:url("img/edgeBackground2.jpg");
 }
 
 
